@@ -1,6 +1,7 @@
 <?php
 /**
  * Plugin Name: CarWash Widget
+ Plugin URI: https://github.com/Arafatislm/carwash-widget/
  * Description: A customizable, responsive pricing table for car wash services using Tailwind and FontAwesome. Use shortcode [cw_widget].
  * Version: 1.0
  * Author: Arafat
